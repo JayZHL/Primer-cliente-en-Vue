@@ -1,0 +1,40 @@
+#uno{
+  display:flex;
+  justify-content:center;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+
+#keywords table{
+align: right;
+}
+ #keywords {
+  /* margin: 0 auto; */
+  font-size: 1.2em;
+  margin-left: 15px;
+  width: 500px;
+}
+
+#keywords th, td {
+  width:150px;
+  text-align:center;
+  border:1px solid black;
+  padding:10px;
+  background-color: white;
+}
+
+#dos{
+  display:flex;
+  justify-content:center;
+}
+#tres{
+  display:flex;
+  justify-content:center;
+}
+body {
+  background:  url('https://onaircode.com/wp-content/uploads/2017/11/Tesselation-Transition.jpg');
+
+}
